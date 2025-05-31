@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # ML Lecture Summarizer
 
 ## Overview
