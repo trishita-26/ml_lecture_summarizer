@@ -1,7 +1,6 @@
 streamlit==1.25.0
 transformers==4.30.0
-torch==2.0.1
+torch==2.7.0
 numpy==1.25.2
 pandas==2.0.3
-# whisper can cause issues when installed from GitHub, so try the PyPI version:
 openai-whisper==20230314
