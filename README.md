@@ -100,7 +100,4 @@ This project is licensed under the MIT License.
 
 Created by Trisita — feel free to reach out via GitHub for questions or collaborations.
 
-```
-
----
 
